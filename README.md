@@ -4,10 +4,10 @@ I am on the Data Engineering track and it has five stages(A to E)
 ## Stage A - Introduction to Python for Machine Learning
 This covers machine learning techniques and how they can serve as an invaluable tool for solving one of the grand challenges posed to humanity such as Climate Change. Worked on cleaning, wrangling, exploring, providing summary statistics and interesting visualizations on a public utility data containing millions of rows and tens of files in structured format.
 
-Stage B - Regression in Machine Learning
+### Stage B - Regression in Machine Learning
 Developing a multivariate multiple regression model to study the effect of eight input variables on two output variables, which are the heating load and the cooling load, of residential buildings.
 
-Stage C - Introduction to Kubernetes
+<h3>Stage C - Introduction to Kubernetes</h3>
 This explores what kubernetes is, its architecture and building blocks, how it can
 be run on our local system or in the cloud, different ways we can configure and protect
 sensitive information, and how one can let external applications access one’s
